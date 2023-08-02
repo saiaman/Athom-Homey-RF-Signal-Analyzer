@@ -7,7 +7,7 @@ Predicts a [signal definition](https://developer.athom.com/docs/apps/tutorial-Si
 The output can be used to create an Athom Homey [RF Driver](https://github.com/athombv/node-homey-rfdriver).
 
 ## See it in action
-*Open in browser:* **[index.html](http://htmlpreview.github.io/?https://github.com/harriedegroot/Athom-Homey-RF-Signal-Analyzer/blob/master/index.html)**.
+*Open in browser:* **[index.html](http://htmlpreview.github.io/?https://github.com/saiaman/Athom-Homey-RF-Signal-Analyzer/blob/master/index.html)**.
 
 ## Demo signals
 Try pasting these demo signals into the `signal recording data` field.
